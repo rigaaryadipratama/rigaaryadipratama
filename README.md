@@ -9,12 +9,9 @@
 
 <code>MATHEMATICS × TECHNOLOGY × BUSINESS</code>
 
-<br><br>
-
+<br>
 <b>Businessman Spirit</b> · IT Hard Skills · Mathematician / Engineering Mindset<br>
-Mathematics Student at Institut Teknologi Sepuluh Nopember — Computer Science Focus<br>
-Interested in IT, Business, and Finance<br>
-Currently Credit Analyst Intern at Bank BRI
+
 
 </div>
 

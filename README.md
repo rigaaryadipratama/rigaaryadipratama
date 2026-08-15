@@ -7,11 +7,7 @@
 
 <h1>Riga Aryadi Pratama</h1>
 
-<code>MATHEMATICS × TECHNOLOGY × BUSINESS</code>
-
-<br>
-<b>Businessman Spirit</b> · IT Hard Skills · Mathematician / Engineering Mindset<br>
-
+<code><b>Entrepreneur Spirit</b> · IT Hard Skills · Mathematician / Engineering Mindset<br></code>
 
 </div>
 
@@ -71,11 +67,11 @@
 
 | | |
 |---|---|
-| **Education** | Mathematics — Institut Teknologi Sepuluh Nopember (ITS) |
-| **Academic Focus** | Computer Science |
+| **Education** | Mathematics - Scientics - Institut Teknologi Sepuluh Nopember (ITS) `2021-2026`  |
+| **Academic Focus** | Computer Science, Blockchain, Cryptography, Mathematical Modelling and Finance, Technopreneur |
 | **Mindset** | Businessman Spirit · IT Hard Skills · Mathematician / Engineering Mindset |
 | **Interests** | IT · Business · Finance |
-| **Hobbies** | FIFA Career Mode · Coding · Mathematics |
+| **Hobbies** | FIFA Career Mode · Coding |
 | **Daily Languages** | Indonesian (Surabaya accent) · Javanese (Surabaya) · English (improving) |
 | **Accent Familiarity** | Some East Indonesian · Sumatra |
 | **OS** | Windows 11 · iOS 26 · Android |
